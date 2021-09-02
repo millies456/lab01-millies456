@@ -1,0 +1,14 @@
+# lab01-millies456
+/ 
+|
++ .gitignore
++ 1.bin
++ answers
++ dir_a /
+        |
+        + 2.bin
+        + 2.txt
+        + dir_b /
+                | 
+                + 3.txt
+                + 3.bin
